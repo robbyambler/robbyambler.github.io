@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "onedrive": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/robbyambler/Library/CloudStorage/OneDrive-Personal"
+      ]
+    }
+  }
+}
