@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Robby Ambler</title>
+	<title>Against All Odds</title>
 </svelte:head>
 
 <Hero />

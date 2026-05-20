@@ -20,7 +20,7 @@
 >
 	<div class="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
 		<a href="/" class="font-display text-lg font-semibold tracking-tight text-[#1c1917] hover:opacity-60 transition-opacity">
-			RA
+			AAO
 		</a>
 
 		<div class="hidden md:flex items-center gap-8">

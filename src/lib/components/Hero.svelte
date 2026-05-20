@@ -1,5 +1,5 @@
 <script lang="ts">
-	const name = 'Robby Ambler';
+	const name = 'Against All Odds';
 	const tagline = 'Where technology meets mission.';
 	const sub = "Crossing borders and building tools — here's what I'm working on.";
 </script>
@@ -16,6 +16,10 @@
 		</h1>
 
 		<div class="w-32 h-1 rounded-full mb-8 animate-fade-up delay-2" style="background: linear-gradient(90deg, #f97316, #0ea5e9, #8b5cf6)"></div>
+
+		<p class="text-sm text-[#78716c] italic mb-6 animate-fade-up delay-2">
+			"Christ Jesus came into the world to save sinners — of whom I am the worst." — 1 Timothy 1:15–17
+		</p>
 
 		<p class="text-2xl md:text-3xl text-[#1c1917] font-light leading-snug mb-4 animate-fade-up delay-2">
 			{tagline}
