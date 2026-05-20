@@ -8,8 +8,9 @@
 	});
 
 	const links = [
-		{ href: '#about',   label: 'About' },
-		{ href: '#contact', label: 'Contact' }
+		{ href: '#blog',     label: 'Blog' },
+		{ href: '#phases',   label: 'Phases' },
+		{ href: '#project3', label: 'Project 3' },
 	];
 </script>
 
@@ -17,8 +18,8 @@
 	class="fixed top-0 left-0 right-0 z-50 transition-all duration-300"
 	class:scrolled
 >
-	<div class="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
-		<a href="/" class="font-display text-lg font-semibold tracking-tight text-[--color-text] hover:text-[--color-accent] transition-colors">
+	<div class="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
+		<a href="/" class="font-display text-lg font-semibold tracking-tight text-[#1c1917] hover:opacity-60 transition-opacity">
 			RA
 		</a>
 
@@ -26,7 +27,7 @@
 			{#each links as { href, label }}
 				<a
 					{href}
-					class="text-sm text-[--color-muted] hover:text-[--color-text] transition-colors duration-200"
+					class="text-sm text-[#78716c] hover:text-[#1c1917] transition-colors duration-200"
 				>
 					{label}
 				</a>
@@ -34,18 +35,18 @@
 		</div>
 
 		<a
-			href="#contact"
-			class="hidden md:inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium border border-[--color-border] text-[--color-text] hover:border-[--color-accent] hover:text-[--color-accent] transition-all duration-200"
+			href="mailto:robby@taethni.com"
+			class="hidden md:inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium border border-[#e7e5e4] text-[#1c1917] hover:border-[#1c1917] transition-all duration-200"
 		>
-			Let's talk
+			Get in touch
 		</a>
 	</div>
 </nav>
 
 <style>
 	nav.scrolled {
-		background-color: rgba(7, 14, 26, 0.88);
+		background-color: rgba(250, 250, 249, 0.92);
 		backdrop-filter: blur(14px);
-		border-bottom: 1px solid var(--color-border);
+		border-bottom: 1px solid #e7e5e4;
 	}
 </style>
