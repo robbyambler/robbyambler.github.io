@@ -7,10 +7,6 @@
 <section class="min-h-screen flex flex-col justify-center px-6" style="background-color: #fafaf9">
 	<div class="max-w-6xl mx-auto w-full pt-28 pb-20">
 
-		<p class="text-sm font-semibold tracking-widest text-[#78716c] uppercase mb-6 animate-fade-up">
-			Field Data · Missions · Technology
-		</p>
-
 		<h1 class="font-display text-7xl md:text-9xl font-semibold leading-none tracking-tight text-[#1c1917] mb-8 animate-fade-up delay-1">
 			{name}
 		</h1>
@@ -18,7 +14,7 @@
 		<div class="w-32 h-1 rounded-full mb-8 animate-fade-up delay-2" style="background: linear-gradient(90deg, #f97316, #0ea5e9, #8b5cf6)"></div>
 
 		<p class="text-sm text-[#78716c] italic mb-6 animate-fade-up delay-2">
-			"Christ Jesus came into the world to save sinners — of whom I am the worst." — 1 Timothy 1:15–17
+			"Christ Jesus came into the world to save sinners, of whom I am the foremost." — 1 Timothy 1:15 ESV
 		</p>
 
 		<p class="text-2xl md:text-3xl text-[#1c1917] font-light leading-snug mb-4 animate-fade-up delay-2">
