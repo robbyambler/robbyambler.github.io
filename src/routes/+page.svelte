@@ -35,13 +35,13 @@
 />
 
 <ProjectSection
-	id="project3"
+	id="mdcu"
 	num="03"
-	eyebrow="Coming Soon"
-	title="Project Three"
-	description="Placeholder — drop in the project name, description, and link when you're ready."
-	cta="Learn more"
-	href="#"
+	eyebrow="Fan Theory"
+	title="Matt Damon Cinematic Universe"
+	description="A tongue-in-cheek but internally consistent theory: every Matt Damon character is the same person. One arc, eighteen aliases, and a friend from South Boston who knew him before any of it started."
+	cta="Enter the MDCU"
+	href="https://github.com/robbyambler/MDCU/"
 	accent="#8b5cf6"
 	bg="#f5f3ff"
 />
