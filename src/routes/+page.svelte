@@ -41,7 +41,8 @@
 	title="Matt Damon Cinematic Universe"
 	description="A tongue-in-cheek but internally consistent theory: every Matt Damon character is the same person. One arc, eighteen aliases, and a friend from South Boston who knew him before any of it started."
 	cta="Enter the MDCU"
-	href="https://github.com/robbyambler/MDCU/"
+	href="https://robbyambler.github.io/MDCU/mdcu.html"
+	repoHref="https://github.com/robbyambler/MDCU/"
 	accent="#8b5cf6"
 	bg="#f5f3ff"
 />

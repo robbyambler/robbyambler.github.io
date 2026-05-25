@@ -10,7 +10,7 @@
 	const links = [
 		{ href: '#blog',     label: 'Blog' },
 		{ href: '#phases',   label: 'Phases' },
-		{ href: '#mdcu', label: 'MDCU' },
+		{ href: '#mdcu', label: 'Matt Damon CU' },
 	];
 </script>
 
