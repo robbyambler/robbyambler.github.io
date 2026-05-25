@@ -35,7 +35,7 @@
 		</div>
 
 		<a
-			href="mailto:robby@taethni.com"
+			href="mailto:robby.ambler@gmail.com"
 			class="hidden md:inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium border border-[#e7e5e4] text-[#1c1917] hover:border-[#1c1917] transition-all duration-200"
 		>
 			Get in touch
