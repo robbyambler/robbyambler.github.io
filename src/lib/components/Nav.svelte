@@ -11,6 +11,7 @@
 		{ href: '#blog',   label: 'Blog',           color: '#f97316' },
 		{ href: '#phases', label: 'Phases',          color: '#0ea5e9' },
 		{ href: '#mdcu',   label: 'Matt Damon CU',  color: '#8b5cf6' },
+		{ href: '#oikos',  label: 'Oikos Map',      color: '#10b981' },
 	];
 </script>
 

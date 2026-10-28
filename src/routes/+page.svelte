@@ -46,3 +46,17 @@
 	accent="#8b5cf6"
 	bg="#f5f3ff"
 />
+
+<ProjectSection
+	id="oikos"
+	num="04"
+	eyebrow="Web App"
+	title="Oikos Map"
+	description="Map the people in your household of influence: who you're praying for, sharing the gospel with, and equipping to do the same. Squares are believers, circles are not yet. Everything stays in your own browser."
+	cta="Build your map"
+	href="https://robbyambler.github.io/Oikos-map/"
+	repoHref="https://github.com/robbyambler/Oikos-map/"
+	accent="#10b981"
+	bg="#ecfdf5"
+	flip={true}
+/>
