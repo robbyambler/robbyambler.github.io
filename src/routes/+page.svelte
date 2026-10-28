@@ -10,15 +10,16 @@
 <Hero />
 
 <ProjectSection
-	id="blog"
+	id="oikos"
 	num="01"
-	eyebrow="Writing & Reflection"
-	title="Blog"
-	description="Sermons, devotions, and field notes — a personal record of faith, mission, and the questions worth sitting with."
-	cta="Read the blog"
-	href="#"
-	accent="#f97316"
-	bg="#fff7ed"
+	eyebrow="Web App"
+	title="Oikos Map"
+	description="Map the people in your household of influence: who you're praying for, sharing the gospel with, and equipping to do the same. Squares are believers, circles are not yet. Everything stays in your own browser."
+	cta="Build your map"
+	href="https://robbyambler.github.io/Oikos-map/"
+	repoHref="https://github.com/robbyambler/Oikos-map/"
+	accent="#10b981"
+	bg="#ecfdf5"
 />
 
 <ProjectSection
@@ -48,15 +49,26 @@
 />
 
 <ProjectSection
-	id="oikos"
+	id="nab"
 	num="04"
-	eyebrow="Web App"
-	title="Oikos Map"
-	description="Map the people in your household of influence: who you're praying for, sharing the gospel with, and equipping to do the same. Squares are believers, circles are not yet. Everything stays in your own browser."
-	cta="Build your map"
-	href="https://robbyambler.github.io/Oikos-map/"
-	repoHref="https://github.com/robbyambler/Oikos-map/"
-	accent="#10b981"
-	bg="#ecfdf5"
+	eyebrow="Network"
+	title="North American Bengali Network"
+	description="Uniting practitioners across North America who are committed to reaching Bengali communities with the gospel."
+	cta="Visit the network"
+	href="https://nabnetwork.org"
+	accent="#f59e0b"
+	bg="#fffbeb"
 	flip={true}
+/>
+
+<ProjectSection
+	id="reachrva"
+	num="05"
+	eyebrow="Gospel Advance Strategy"
+	title="Reach RVA"
+	description="A comprehensive gospel advance and church planting strategy for the Richmond, VA metro area. No place left without a gospel witness."
+	cta="Explore the strategy"
+	href="https://reachrva.com"
+	accent="#e11d48"
+	bg="#fff1f2"
 />

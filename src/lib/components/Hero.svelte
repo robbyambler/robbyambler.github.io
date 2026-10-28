@@ -27,7 +27,7 @@
 
 		<div class="flex flex-wrap gap-4 animate-fade-up delay-4">
 			<a
-				href="#blog"
+				href="#oikos"
 				class="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-[#1c1917] text-[#fafaf9] font-semibold text-sm hover:opacity-75 transition-opacity duration-200"
 			>
 				Explore my work
